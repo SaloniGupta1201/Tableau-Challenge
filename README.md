@@ -15,8 +15,8 @@ This storyboard was created with the data available in https://www.citibikenyc.c
 
 ## Technologies
 This project was created with:
-
-Python 3.8
-Jupyter Notebook
-Tableau
+</br>
+Python 3.8 </br>
+Jupyter Notebook </br>
+Tableau </br>
  
